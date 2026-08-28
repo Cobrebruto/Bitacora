@@ -1,1 +1,1 @@
-# Bitacora
+En la parte de indentificacion se pudo encontrar estos fallos ya que al momento de digitar una cedula la cual era invalida el programa la aceptaba,con la fecha pasa lo mismo la fecha que digita esta incorrecta y el programa la acepta y con las cargas simuladas al ser tanta generan un problema 
